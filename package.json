@@ -1,0 +1,27 @@
+{
+  "name": "doby-utilities",
+  "version": "1.0.0",
+  "description": "Readable util functions you didn't know you needed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavle-doby/doby-utilities.git"
+  },
+  "keywords": [
+    "util",
+    "utilities",
+    "doby",
+    "library",
+    "readable",
+    "blazingly"
+  ],
+  "author": "pavle-doby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavle-doby/doby-utilities/issues"
+  },
+  "homepage": "https://github.com/pavle-doby/doby-utilities#readme"
+}
