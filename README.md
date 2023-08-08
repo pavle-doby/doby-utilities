@@ -2,6 +2,6 @@
 
 First, utility functions that you understand. 🤓
 
-Here to help you write blazingly cool, readable & modular code.
+Here to help you write blazingly cool, readable & modular code. 🚀
 
-P.S. Please feel free to contribute to the repo.
+P.S. Please feel free to contribute to the repo. 🙏
