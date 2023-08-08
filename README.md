@@ -1,6 +1,6 @@
 # doby-utilities
 
-First utilitie functions that you understand. 🤓
+First, utility functions that you understand. 🤓
 
 Here to help you write blazingly cool, readable & modular code.
 
